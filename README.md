@@ -1,2 +1,2 @@
-# BackEnd-Projects-
-Repository for my backend projects.
+# BackEnd-Projects
+Repository for my backend projects and programming studies.
