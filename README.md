@@ -1,2 +1,2 @@
 # BackEnd-Projects
-Repository for my backend projects and programming studies.
+Esse é um repositorio para os meus estudos em java, apenas para tentar registrar me progresso.
