@@ -25,9 +25,9 @@ CalculadoraSwitch/
 ## 💻 Exemplo de Uso
 ```bash
 Enter a number: 10
-Enter a operator: (+, -, *, /): /
+Enter a operator (+, -, *, /): /
 Enter a second number: 2
-Result: 5.0
+Result: 5.00
 ```
 
 Exemplo de tratamento de erro:
