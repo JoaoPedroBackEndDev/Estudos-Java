@@ -18,7 +18,7 @@ public class Program {
         System.out.print("Enter a number: ");
         double number1 = sc.nextInt();
 
-        System.out.print("(+,-,x,/): ");
+        System.out.print("Enter a operator (+,-,x,/): ");
         char operator = sc.next().charAt(0);
 
         System.out.print("Enter a second number: ");
@@ -37,3 +37,4 @@ public class Program {
         sc.close();
     }
 }
+
