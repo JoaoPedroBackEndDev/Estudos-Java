@@ -28,7 +28,7 @@ public class Program {
             double result = cal.Calculate(number1,number2,operator);
             System.out.printf("Result: %.2f", result);
         }catch (InputMismatchException e){
-            System.out.println("Error: Not accepted input");
+            System.out.println("Error: Input not accepted");
         }catch (IllegalArgumentException e){
             System.out.println("Error! " + e.getMessage());
         }catch (ArithmeticException e){
@@ -37,4 +37,5 @@ public class Program {
         sc.close();
     }
 }
+
 
